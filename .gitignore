@@ -1,0 +1,5 @@
+env/
+__pycache__/
+already_uploaded.txt
+credentials.json
+env
